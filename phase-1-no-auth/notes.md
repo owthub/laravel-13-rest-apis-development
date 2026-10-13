@@ -32,7 +32,7 @@ API Resource Controller
 - store -> Save Book API
 - show -> Single Book Info API
 - update -> Update Book API
-- destroy
+- destroy -> Delete Book API
 
 php artisan make:controller BookController --api
 
